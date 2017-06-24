@@ -1,0 +1,199 @@
+2017-06-22 16:19:37,655 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Pool for datasource 'default'
+2017-06-22 16:19:38,013 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [default] connected at jdbc:mysql://localhost:3306/mydropbox?useSSL=false
+2017-06-22 16:19:38,954 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2017-06-22T14:19:38.953Z
+2017-06-22 16:19:39,218 [ERROR] from application in ForkJoinPool-1-worker-1 - elo
+2017-06-22 16:19:39,295 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2017-06-22 16:19:39,416 [ERROR] from application in application-akka.actor.default-dispatcher-4 - /Users/mbajdek/Desktop/place
+2017-06-22 16:19:47,294 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:19:55,299 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:20:03,302 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:20:11,305 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:20:19,309 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:20:27,312 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:20:35,316 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:20:43,321 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:20:49,259 [INFO] from application in Thread-9 - >>>>>>>>>> a
+2017-06-22 16:20:49,259 [INFO] from application in Thread-9 - heloszka filku a
+2017-06-22 16:20:49,260 [INFO] from application in Thread-9 - >>>>>>>>>> v
+2017-06-22 16:20:49,260 [INFO] from application in Thread-9 - heloszka filku v
+2017-06-22 16:20:51,332 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/a to the place: /Users/mbajdek/Desktop/storage/s3/a
+2017-06-22 16:20:51,332 [ERROR] from application in Thread-10 - @@@@@@ 3 tempnmbr: 3
+2017-06-22 16:20:51,332 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/v to the place: /Users/mbajdek/Desktop/storage/s4/v
+2017-06-22 16:20:51,332 [ERROR] from application in Thread-10 - @@@@@@ 4 tempnmbr: 4
+2017-06-22 16:20:51,333 [INFO] from application in Thread-10 - @#@# printed queue av
+2017-06-22 16:20:59,337 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:21:07,340 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> ads
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku ads
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> b
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku b
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> bd
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku bd
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> bdc
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku bdc
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> bxg
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku bxg
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> cf
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku cf
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> czv
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku czv
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - >>>>>>>>>> das
+2017-06-22 16:21:09,258 [INFO] from application in Thread-9 - heloszka filku das
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - >>>>>>>>>> ds
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - heloszka filku ds
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - >>>>>>>>>> fd
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - heloszka filku fd
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - >>>>>>>>>> fdz
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - heloszka filku fdz
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - >>>>>>>>>> fgzd
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - heloszka filku fgzd
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - >>>>>>>>>> fvdg
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - heloszka filku fvdg
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - >>>>>>>>>> g
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - heloszka filku g
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - >>>>>>>>>> gdf
+2017-06-22 16:21:09,259 [INFO] from application in Thread-9 - heloszka filku gdf
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> gf
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku gf
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> gfd
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku gfd
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> gmhn
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku gmhn
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> nv
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku nv
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> sd
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku sd
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> sdf
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku sdf
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> sdfs
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku sdfs
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> shf
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - heloszka filku shf
+2017-06-22 16:21:09,262 [INFO] from application in Thread-9 - >>>>>>>>>> vc
+2017-06-22 16:21:09,263 [INFO] from application in Thread-9 - heloszka filku vc
+2017-06-22 16:21:09,266 [INFO] from application in Thread-9 - >>>>>>>>>> vds
+2017-06-22 16:21:09,266 [INFO] from application in Thread-9 - heloszka filku vds
+2017-06-22 16:21:09,266 [INFO] from application in Thread-9 - >>>>>>>>>> vdsz
+2017-06-22 16:21:09,266 [INFO] from application in Thread-9 - heloszka filku vdsz
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - >>>>>>>>>> vdz
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - heloszka filku vdz
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - >>>>>>>>>> xvzx
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - heloszka filku xvzx
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - >>>>>>>>>> zc
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - heloszka filku zc
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - >>>>>>>>>> zdfg
+2017-06-22 16:21:09,267 [INFO] from application in Thread-9 - heloszka filku zdfg
+2017-06-22 16:21:15,343 [ERROR] from application in Thread-10 - !@!@!@! cuka bljat
+2017-06-22 16:21:15,343 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/ads to the place: /Users/mbajdek/Desktop/storage/s2/ads
+2017-06-22 16:21:15,343 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/b to the place: /Users/mbajdek/Desktop/storage/s3/b
+2017-06-22 16:21:15,343 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/bd to the place: /Users/mbajdek/Desktop/storage/s4/bd
+2017-06-22 16:21:15,343 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/bdc to the place: /Users/mbajdek/Desktop/storage/s5/bdc
+2017-06-22 16:21:15,343 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/bxg to the place: /Users/mbajdek/Desktop/storage/s1/bxg
+2017-06-22 16:21:15,343 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/cf to the place: /Users/mbajdek/Desktop/storage/s2/cf
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/czv to the place: /Users/mbajdek/Desktop/storage/s3/czv
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/das to the place: /Users/mbajdek/Desktop/storage/s4/das
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/ds to the place: /Users/mbajdek/Desktop/storage/s5/ds
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/fd to the place: /Users/mbajdek/Desktop/storage/s1/fd
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/fdz to the place: /Users/mbajdek/Desktop/storage/s2/fdz
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/fgzd to the place: /Users/mbajdek/Desktop/storage/s3/fgzd
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/fvdg to the place: /Users/mbajdek/Desktop/storage/s4/fvdg
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/g to the place: /Users/mbajdek/Desktop/storage/s5/g
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/gdf to the place: /Users/mbajdek/Desktop/storage/s1/gdf
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/gf to the place: /Users/mbajdek/Desktop/storage/s2/gf
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/gfd to the place: /Users/mbajdek/Desktop/storage/s3/gfd
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/gmhn to the place: /Users/mbajdek/Desktop/storage/s4/gmhn
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/nv to the place: /Users/mbajdek/Desktop/storage/s5/nv
+2017-06-22 16:21:15,344 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/sd to the place: /Users/mbajdek/Desktop/storage/s1/sd
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/sdf to the place: /Users/mbajdek/Desktop/storage/s2/sdf
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/sdfs to the place: /Users/mbajdek/Desktop/storage/s3/sdfs
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/shf to the place: /Users/mbajdek/Desktop/storage/s4/shf
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/vc to the place: /Users/mbajdek/Desktop/storage/s5/vc
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/vds to the place: /Users/mbajdek/Desktop/storage/s1/vds
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/vdsz to the place: /Users/mbajdek/Desktop/storage/s2/vdsz
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/vdz to the place: /Users/mbajdek/Desktop/storage/s3/vdz
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/xvzx to the place: /Users/mbajdek/Desktop/storage/s4/xvzx
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/zc to the place: /Users/mbajdek/Desktop/storage/s5/zc
+2017-06-22 16:21:15,345 [INFO] from application in Thread-10 - sending file /Users/mbajdek/Desktop/place/zdfg to the place: /Users/mbajdek/Desktop/storage/s1/zdfg
+2017-06-22 16:21:15,346 [INFO] from application in Thread-10 - @#@# printed queue adsbbdbdcbxgcfczvdasdsfdfdzfgzdfvdgggdfgfgfdgmhnnvsdsdfsdfsshfvcvdsvdszvdzxvzxzczdfg
+2017-06-22 16:21:23,348 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:21:31,353 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:21:39,353 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:21:47,358 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:21:55,363 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:03,368 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:11,372 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:19,374 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:27,377 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:35,381 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:43,383 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:51,385 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:22:59,388 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:23:07,391 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:23:15,391 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:23:23,394 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:23:31,398 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:23:39,401 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:23:47,406 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:23:55,407 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:03,410 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:11,412 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:19,415 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:27,419 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:35,419 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:43,423 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:51,425 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:24:59,430 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:25:07,435 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:25:15,434 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:25:23,439 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:25:31,441 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:25:39,442 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:25:47,445 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:25:55,448 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:03,450 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:11,453 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:19,456 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:27,458 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:35,459 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:43,463 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:51,468 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:26:59,473 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:27:07,477 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:27:15,481 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:27:23,482 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:27:31,484 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:27:39,488 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:27:47,492 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:27:55,493 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:03,494 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:11,498 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:19,501 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:27,503 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:35,505 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:43,509 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:51,512 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:28:59,516 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:29:07,521 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:29:15,525 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:29:23,529 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:29:31,534 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:29:39,536 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:29:47,541 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:29:55,545 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:03,550 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:11,555 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:19,559 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:27,564 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:35,565 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:43,566 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:51,570 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:30:59,574 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:31:07,573 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:31:15,577 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:31:23,579 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:31:31,580 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:31:39,584 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:31:47,587 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:31:55,590 [INFO] from application in Thread-10 - @#@# printed queue 
+2017-06-22 16:32:00,893 [INFO] from application in pool-4-thread-2 - ApplicationTimer demo: Stopping application at 2017-06-22T14:32:00.893Z after 742s.
+2017-06-22 16:32:00,896 [INFO] from application in pool-4-thread-2 - Shutting down connection pool.

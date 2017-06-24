@@ -1,0 +1,11 @@
+- &storage1 !!models.Storage
+    place:          ftp.emibe.heliohost.org
+    type:           ftp
+    username:       thread1@emibe.heliohost.org
+    password:       Password123!@
+
+- &storage2 !!models.Storage
+    place:          ftp.thread2.heliohost.org
+    type:           ftp
+    username:       thread2@thread2.heliohost.org
+    password:       Password123!@
