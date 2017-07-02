@@ -29,4 +29,24 @@ public class CommonUtil {
         return toReturn;
     }
     
+        public static String getPlaceToObservePatch(){
+        return getValueForConfigurationKey(ROOT_PLACE);
+    }
+
+    public static String getNumberOfStorages(){
+        return getValueForConfigurationKey(NUMBER_OF_STORAGES);
+    }
+
+    public static String getBasicStoragePlace(){
+        return getValueForConfigurationKey(BASIC_STORAGE_PLACE);
+    }
+
+    public static String getRootPlace(){
+        return getValueForConfigurationKey(ROOT_PLACE);
+    }
+
+    public static File getCurentAvailableDirectory(){
+        return new File(getBasicStoragePlace() + balanceManagerInstance.getCurrentAvailableStorageNumber());
+    }
+    
     }
